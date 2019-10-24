@@ -14,4 +14,4 @@ Using Microsoft Excel, various visualizations are created to reveal relationship
     1. A series of pie charts showing goal proportions of sub-categories of each parent category per year
     2. A scatter plot showing the relationship between the number of supporters and status of campaign
 
-Refer to `StarterBook (Soo Bin Hwang).xlsx` for details.
+Refer to `Kickstart_Report.docx` and `Kickstart_Visualization.xlsx` for details.
